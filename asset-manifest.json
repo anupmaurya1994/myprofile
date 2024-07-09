@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/myprofile/static/css/main.f6274864.css",
+    "main.css": "/myprofile/static/css/main.49775d24.css",
     "main.js": "/myprofile/static/js/main.56f69c23.js",
     "static/js/453.ace21015.chunk.js": "/myprofile/static/js/453.ace21015.chunk.js",
     "static/media/qc1.png": "/myprofile/static/media/qc1.2bed6cd354059c118863.png",
@@ -56,12 +56,12 @@
     "static/media/quicklending-logo.png": "/myprofile/static/media/quicklending-logo.e352673462779e55ea30.png",
     "static/media/avatar-2.jpg": "/myprofile/static/media/avatar-2.feb0f89de58f0ef9b424.jpg",
     "index.html": "/myprofile/index.html",
-    "main.f6274864.css.map": "/myprofile/static/css/main.f6274864.css.map",
+    "main.49775d24.css.map": "/myprofile/static/css/main.49775d24.css.map",
     "main.56f69c23.js.map": "/myprofile/static/js/main.56f69c23.js.map",
     "453.ace21015.chunk.js.map": "/myprofile/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6274864.css",
+    "static/css/main.49775d24.css",
     "static/js/main.56f69c23.js"
   ]
 }
